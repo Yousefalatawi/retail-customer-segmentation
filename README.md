@@ -32,7 +32,7 @@ RFM analysis is a proven marketing technique used to identify a firm's best cust
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 | File               | Description                             |
 |--------------------|-----------------------------------------|
@@ -41,7 +41,7 @@ RFM analysis is a proven marketing technique used to identify a firm's best cust
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone or download the repository.
 2. Install required libraries:
@@ -57,6 +57,6 @@ Retail Data Enthusiast | MIS Graduate
 
 ---
 
-##  License
+
 
 This project is for educational and portfolio purposes only.
