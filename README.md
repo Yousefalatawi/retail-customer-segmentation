@@ -32,12 +32,6 @@ RFM analysis is a proven marketing technique used to identify a firm's best cust
 
 ---
 
-##  File Structure
-
-| File               | Description                             |
-|--------------------|-----------------------------------------|
-| `rfm_segmentation.py` | Main script performing the RFM analysis |
-| `README.md`        | Project description and usage guide     |
 
 ---
 
